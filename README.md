@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Prince1314-patel
+# 👋 Hi, I’m Prince
 
 ## 👀 I’m interested in ...
 - Machine learning, deep learning, AI, and computer vision
